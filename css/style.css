@@ -1,0 +1,218 @@
+body	{
+	background: black;
+		
+}
+
+.navbar-default	{
+	margin-top: 10px;
+	min-height: 32px;
+	background: black;
+	border: 2px solid #382418;
+	border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #90c040;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus	{
+	color: #90c040;
+	text-decoration: underline;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background: #90c040;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #90c040;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background: transparent;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: #382418; 
+}
+
+.navbar-default .navbar-brand {
+    color: #90c040;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: white;
+}
+
+.banner	{
+	margin: 10px auto;
+	font-size: 1.3em;
+}
+
+.well-sm	{
+	background: black;
+	border: 2px solid #382418;
+	border-radius: 0;
+}
+.well-sm ul	{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.well-sm li a	{
+	color: #90c040;
+}
+.oldschool	{
+	background: url('http://www.runescape.com/img/rsp777/splash/compare_users.gif') no-repeat center; 
+	-webkit-background-size:  100% 100%;
+	-moz-background-size:  100% 100%;
+	-o-background-size:  100% 100%;
+	background-size: 100% 100%;
+	min-width: 120px;
+	min-height: 103px;
+	text-align: center;
+	padding: 5%;
+	border-radius: 3px;
+	border: 1px solid transparent;
+	display: inline-block;
+}
+.oldschool-text	{
+	color: white;
+	font-weight: bold;
+	font-size: 1.4em;
+	text-decoration: none;
+}
+.oldschool-text-title	{
+	width: auto;
+    margin-top: -18px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	font-size: 15px;
+}
+.oldschool-text:hover, .oldschool-text:focus	{
+	color: #ccc;
+}
+
+.wrapper	{
+	padding-left: 7.5%;
+	padding-right: 7.5%;
+}
+
+.container	{
+	background: url('../img/background.png') center; 
+	-webkit-background-size:  100% 100%;
+	-moz-background-size:  100% 100%;
+	-o-background-size:  100% 100%;
+	background-size: 100% 100%;
+}
+A.c:hover {
+	TEXT-DECORATION: none;
+}
+A:hover{
+	TEXT-DECORATION: none;
+
+}
+
+#red {
+	border-color: rgb(87, 7, 0);
+	background-color: rgb(87, 7, 0);
+	background-image: url(../../img/title/shinystonered.jpg);
+	BORDER-RIGHT: #570700 3pt outset;
+    BORDER-TOP: #570700 3pt outset;
+    BORDER-LEFT: #570700 3pt outset;
+		BORDER-BOTTOM: #570700 3pt outset;
+		FONT-SIZE: 13px;
+    FONT-FAMILY: Arial,Helvetica,sans-serif;
+}
+table{
+	white-space: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-size: medium;
+	font-style: normal;
+	color: -internal-quirk-inherit;
+	text-align: start;
+	font-variant: normal;
+	display: table;
+	border-collapse: separate;
+	border-spacing: 2px;
+	border-color: grey;
+}
+center {
+	display: block;
+	text-align: -webkit-center;
+}
+td, th {
+	display: table-cell;
+	vertical-align: inherit;
+}
+.content:before	{
+	/* background: url('../img/content_scroll.png') no-repeat center top; */
+	background-size: 100% 50px;
+	content: '';
+	height: 50px;
+	left: 0;
+	position: absolute;
+	top: -11px;
+	width: 100%;
+}
+.content:after	{
+	/* background: url('../img/content_scroll.png') no-repeat center top; */
+	background-size: 100% 50px;
+	content: '';
+	height: 50px;
+	bottom: -11px;
+	left: 0;
+	top: auto;
+	position: absolute;
+	width: 100%;
+}
+.content	{
+	/* background: url('../img/content.png') repeat-y top center; */
+	background-size: 95% 100%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 75px;
+	padding-bottom: 75px;
+	position: relative;
+	margin-top: 10px;
+}
+
+.content-title	{
+	color: #6D4211;
+	font-family: initial;
+	font-size: 3.5em;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: center;
+	text-shadow: 1px 1px 1px black;
+}
+
+.content-text	{
+	font-size: 1.2em;
+	color: black;
+}
+
+.content-text a	{
+	color: #7B4F17;
+	font-weight: bold;
+}
+.content-text a:hover,
+.content-text a:focus	{
+	text-decoration: underline;
+}
+
+.footer	{
+	color: white;
+	margin-top: 20px;
+	padding-top: 15px;
+	text-align: center;
+}
+
+.whiteText	{
+	color: white;
+}
