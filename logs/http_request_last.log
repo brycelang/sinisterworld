@@ -1,0 +1,202 @@
+## [2019-04-06 16:00:46] Request ##############################
+
+GET /feeds/discussions.rss HTTP/1.1
+Host: www.litecart.net
+User-Agent: LiteCart/2.1.6
+Content-Length: 0
+Connection: Close
+
+
+
+## [2019-04-06 16:00:46] Response — 9280 bytes transferred in 0.775 s ##############################
+
+HTTP/1.1 200 OK
+Date: Sat, 06 Apr 2019 20:00:47 GMT
+Content-Type: application/rss+xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=deff8c53de95ed27818e6629f5eb5aa671554580847; expires=Sun, 05-Apr-20 20:00:47 GMT; path=/; domain=.litecart.net; HttpOnly
+X-Powered-By: LiteCart HQ
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Language: en
+Set-Cookie: LCSESSID=55eb3f0fce09111e48965f0b5c244bb3; path=/
+Set-Cookie: language_code=en; expires=Mon, 06-May-2019 20:00:47 GMT; Max-Age=2592000; path=/
+Set-Cookie: cart[uid]=5ca9056fd3150; expires=Mon, 06-Apr-2020 20:00:47 GMT; Max-Age=31622400; path=/
+Set-Cookie: currency_code=USD; expires=Mon, 06-May-2019 20:00:47 GMT; Max-Age=2592000; path=/
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 4c365997fadaa3b6-MGM
+
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>LiteCart Forum Discussions</title>
+    <link>https://www.litecart.net/en/forums/</link>
+    <description>The most recent forum activity.</description>
+    <language>en</language>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Google has detected Mobile Usability issues.]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/9491/google-has-detected-mobile-usability-issues</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[airclix]]></author>
+      <pubDate>Wed, 03 Apr 2019 23:42:18 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[incorrect flag variable (unicoded_content)]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/9431/incorrect-flag-variable-unicoded-content</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[skipperhosting]]></author>
+      <pubDate>Wed, 03 Apr 2019 19:18:16 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Errors in country shipping tables]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/2045/errors-in-country-shipping-tables</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[piro]]></author>
+      <pubDate>Tue, 02 Apr 2019 14:03:37 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Stripe add-on]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/6225/stripe-add-on</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[navarro_2]]></author>
+      <pubDate>Sat, 30 Mar 2019 18:19:22 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Remove tax field from product]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/8891/remove-tax-field-from-product</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[warsawtrend]]></author>
+      <pubDate>Fri, 29 Mar 2019 13:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Install an addon]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/4142/install-an-addon</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[laurentmaman]]></author>
+      <pubDate>Fri, 29 Mar 2019 13:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Wrong image url]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/9473/wrong-image-url</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[skoruppa]]></author>
+      <pubDate>Fri, 29 Mar 2019 13:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Checkout Page - An unexpected error occurred]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/9450/checkout-page-an-unexpected-error-occurred</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[foofaa]]></author>
+      <pubDate>Wed, 27 Mar 2019 12:58:45 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Templates and CSS]]></category>
+      <title><![CDATA[How to change the site text dir to RTL?]]></title>
+      <link>https://www.litecart.net/en/forums/12/templates-and-css/9445/how-to-change-the-site-text-dir-to-rtl</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[eternity575]]></author>
+      <pubDate>Wed, 27 Mar 2019 12:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Do I need to manually update orders?]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/8231/do-i-need-to-manually-update-orders</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[teamobsidion]]></author>
+      <pubDate>Wed, 27 Mar 2019 05:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[No Status Update]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/9361/no-status-update</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[manusocken]]></author>
+      <pubDate>Tue, 26 Mar 2019 18:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[live demo]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/9384/live-demo</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[jcemp]]></author>
+      <pubDate>Tue, 26 Mar 2019 17:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Headers and client library minor version mismatch.]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/9440/headers-and-client-library-minor-version-mismatch</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[eternity575]]></author>
+      <pubDate>Mon, 25 Mar 2019 12:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Do you have these add ons?]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/9437/do-you-have-these-add-ons</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[maggui]]></author>
+      <pubDate>Sat, 23 Mar 2019 13:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[nginx letsencrypt PHP error]]></title>
+      <link>https://www.litecart.net/en/forums/15/errors-and-troubleshooting/9433/nginx-letsencrypt-php-error</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[user54]]></author>
+      <pubDate>Fri, 22 Mar 2019 10:24:23 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Free shipping discount]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/5702/free-shipping-discount</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[msf002004]]></author>
+      <pubDate>Thu, 21 Mar 2019 08:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Issues with Google shopping descriptions]]></title>
+      <link>https://www.litecart.net/en/forums/7/add-ons/9269/issues-with-google-shopping-descriptions</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[acid]]></author>
+      <pubDate>Tue, 19 Mar 2019 22:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Test emails]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/9413/test-emails</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[mczapla]]></author>
+      <pubDate>Mon, 18 Mar 2019 22:58:29 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[How to change weight options ?]]></title>
+      <link>https://www.litecart.net/en/forums/3/installation-and-configuration/8991/how-to-change-weight-options</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[alfaomegaindia]]></author>
+      <pubDate>Mon, 18 Mar 2019 20:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[How do I add custom tabs on product pages?]]></title>
+      <link>https://www.litecart.net/en/forums/2/general-discussions/8925/how-do-i-add-custom-tabs-on-product-pages</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[ruvaders]]></author>
+      <pubDate>Mon, 18 Mar 2019 20:02:40 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
+
+

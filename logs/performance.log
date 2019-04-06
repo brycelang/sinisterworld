@@ -1,0 +1,36 @@
+[2019-04-01 07:21:01 Europe/Berlin] Warning: A MySQL connection established in 2.095 s.
+[2019-04-02 01:57:37 America/Havana] Warning: A MySQL query executed in 3.630 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 02:01:38 America/Havana] Warning: A MySQL query executed in 3.543 s. Query: show fields from `sinister`.`lc_option_groups_info`;
+[2019-04-02 02:03:38 America/Havana] Warning: A MySQL query executed in 4.591 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 02:12:37 America/Havana] Warning: A MySQL query executed in 3.464 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 02:38:01 America/Havana] Warning: A MySQL query executed in 5.531 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 08:38:33 Europe/Berlin] Warning: A MySQL connection established in 2.206 s.
+[2019-04-02 02:39:08 America/Havana] Warning: A MySQL query executed in 5.106 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 02:41:08 America/Havana] Warning: A MySQL query executed in 5.690 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 08:41:53 Europe/Berlin] Warning: A MySQL connection established in 1.216 s.
+[2019-04-02 02:45:06 America/Havana] Warning: A MySQL query executed in 6.132 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 03:22:46 America/Havana] Warning: A MySQL query executed in 12.312 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 09:27:24 Europe/Berlin] Warning: A MySQL connection established in 1.431 s.
+[2019-04-02 09:31:33 Europe/Berlin] Warning: A MySQL connection established in 1.577 s.
+[2019-04-02 03:34:02 America/Havana] Warning: A MySQL query executed in 5.351 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 03:43:38 America/Havana] Warning: A MySQL query executed in 4.590 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 04:04:05 America/Havana] Warning: A MySQL query executed in 7.679 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 10:04:31 Europe/Berlin] Warning: A MySQL connection established in 1.251 s.
+[2019-04-02 04:04:56 America/Havana] Warning: A MySQL query executed in 5.748 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 04:05:01 America/Havana] Warning: A MySQL query executed in 3.281 s. Query: show fields from `sinister`.`lc_option_groups_info`;
+[2019-04-02 10:06:50 Europe/Berlin] Warning: A MySQL connection established in 1.005 s.
+[2019-04-02 10:08:55 Europe/Berlin] Warning: A MySQL connection established in 1.495 s.
+[2019-04-02 10:09:49 Europe/Berlin] Warning: A MySQL connection established in 1.139 s.
+[2019-04-02 10:10:51 Europe/Berlin] Warning: A MySQL connection established in 1.607 s.
+[2019-04-02 04:11:03 America/Havana] Warning: A MySQL query executed in 9.072 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 10:14:36 Europe/Berlin] Warning: A MySQL connection established in 1.638 s.
+[2019-04-02 10:16:30 Europe/Berlin] Warning: A MySQL connection established in 1.113 s.
+[2019-04-02 10:17:34 Europe/Berlin] Warning: A MySQL connection established in 1.399 s.
+[2019-04-02 04:18:07 America/Havana] Warning: A MySQL query executed in 9.341 s. Query: show fields from `sinister`.`lc_customers`;
+[2019-04-02 04:19:02 America/Havana] Warning: A MySQL query executed in 3.979 s. Query: show fields from `sinister`.`lc_customers`;
+[2019-04-02 19:54:15 America/Havana] Warning: A MySQL query executed in 4.122 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-02 19:54:21 America/Havana] Warning: A MySQL query executed in 5.016 s. Query: show fields from `sinister`.`lc_option_groups_info`;
+[2019-04-02 22:10:24 America/Havana] Warning: A MySQL query executed in 3.222 s. Query: show fields from `sinister`.`lc_option_groups`;
+[2019-04-06 21:55:17 Europe/Berlin] Warning: A MySQL connection established in 1.574 s.
+[2019-04-06 21:55:24 Europe/Berlin] Warning: A MySQL connection established in 1.014 s.
+[2019-04-06 21:55:27 Europe/Berlin] Warning: A MySQL connection established in 1.003 s.
