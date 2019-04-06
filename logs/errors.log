@@ -3946,3 +3946,699 @@ Request: POST /shop/admin/?app=appearance&doc=logotype HTTP/1.1
 Client: ::1 (DESKTOP-H01N6BL)
 User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
 
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 79 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: exif_imagetype(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 939
+ ← ~/includes/functions/func_image.inc.php on line 93 in type()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: getimagesize(C:/xampp/htdocs/sinisterworld/images/no_image.png): failed to open stream: No such file or directory in ~/includes/controllers/ctrl_image.inc.php on line 857
+ ← ~/includes/controllers/ctrl_image.inc.php on line 145 in width()
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+[06-Apr-2019 17:40:18 America/Havana] Warning: Error getting source image dimensions (C:/xampp/htdocs/sinisterworld/images/no_image.png). in ~/includes/controllers/ctrl_image.inc.php on line 146
+ ← ~/includes/functions/func_image.inc.php on line 101 in resample()
+ ← ~/includes/functions/func_image.inc.php on line 149 in image_process()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in image_thumbnail()
+ ← ~/includes/functions/func_draw.inc.php on line 80 in __callstatic()
+ ← ~/includes/library/lib_functions.inc.php on line 13 in draw_listing_product()
+ ← ~/includes/templates/infinite.catalog/views/box_popular_products.inc.php on line 4 in __callstatic()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/includes/boxes/box_popular_products.inc.php on line 29 in stitch()
+ ← ~/includes/templates/infinite.catalog/pages/index.inc.php on line 60 in include()
+ ← ~/includes/classes/view.inc.php on line 63 in include()
+ ← ~/includes/classes/view.inc.php on line 20 in _process_view()
+ ← ~/pages/index.inc.php on line 12 in stitch()
+ ← ~/index.php on line 35 in include()
+Request: GET /sinisterworld/ HTTP/1.1
+Client: ::1 (DESKTOP-H01N6BL)
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
